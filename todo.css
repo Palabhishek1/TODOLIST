@@ -1,0 +1,15 @@
+div{
+color:red;
+
+}
+h1{
+    color: brown;
+}
+body{
+display: flex;
+
+justify-content: center;
+align-items: center;
+
+
+}
